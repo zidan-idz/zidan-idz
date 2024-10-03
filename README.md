@@ -5,7 +5,7 @@
 
 • 🏢 **As** *Student*
 
-• 💫 **Hobby** *Coding, Playing Guitar, Reading Books, Watching Football & Anime*
+• 💫 **Hobby** *Coding, Playing Guitar, Reading Books, Watching Football, Movie, & Anime
 
 
 ### Contact Me:
