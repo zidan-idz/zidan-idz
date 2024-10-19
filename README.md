@@ -1,5 +1,5 @@
 ## Hi There, I'm Zidan✨
-![Profile-View](https://komarev.com/ghpvc/?username=Zidan-ID17)
+![Profile-View](https://komarev.com/ghpvc/?username=zidan-idz)
 
 • 🏠 **Live in** *Lombok, Indonesia*
 
@@ -15,5 +15,5 @@
 
 
 ### Github Stats:
-![My-Github-Stats](https://github-readme-stats.vercel.app/api?username=Zidan-ID17&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zidan-ID17&layout=compact&theme=radical)
+![My-Github-Stats](https://github-readme-stats.vercel.app/api?username=zidan-idz&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zidan-idz&layout=compact&theme=radical)
